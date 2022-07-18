@@ -45,7 +45,8 @@ export default function AddBudgetModal({ show, handleClose}) {
                     <Button variant="primary" type="submit">Add</Button>
                 </div>
             </Modal.Body>
-        </Form>
+        </Form> 
+        
     </Modal>
   )
 }
